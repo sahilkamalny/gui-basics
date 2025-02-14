@@ -1,0 +1,13 @@
+.root {
+    -fx-background-color: lightblue;
+}
+
+.button {
+    -fx-background-color: darkblue;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+.label {
+    -fx-rotate: 90;
+}
